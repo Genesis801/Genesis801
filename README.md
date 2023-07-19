@@ -20,7 +20,7 @@
 
 - 📄 Find my Resume in this link [https://drive.google.com/file/d/1B6vO6JVmRMuP_TI_1LhwqsCPGuzkT-kw/view?usp=sharing](https://drive.google.com/file/d/1B6vO6JVmRMuP_TI_1LhwqsCPGuzkT-kw/view?usp=sharing)
 
-- ⚡ Fun fact **Why did the data scientist bring a calculator to the art museum? Because they wanted to appreciate the beauty of data visualization!**
+- ⚡ Fun fact **There are 10 kinds of people in this world. Those who understand binary and those who don’t.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
