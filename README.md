@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Natural Language Processing, Large Language Models (LLM), and Data Visualization.**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/debajyoti-roy-82b457163/](https://www.linkedin.com/in/debajyoti-roy-82b457163/)
+- 👨‍💻 All of my projects are available at [My Github Repositories.](https://github.com/Genesis801?tab=repositories)
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Building Data Pipelines.**
 
