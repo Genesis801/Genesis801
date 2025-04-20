@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **debajyotiroy21@gmail.com**
 
-- 📄 Find my Resume in this [**Link** https://shorturl.at/uDo5N]([https://drive.google.com/file/d/1vYe0_uaMuYmivfHhOqaG1yfgbeikVvph/view?usp=sharing])
+- 📄 Find my Resume in this Link: [*Resume*](https://drive.google.com/file/d/1vYe0_uaMuYmivfHhOqaG1yfgbeikVvph/view?usp=sharing)
 
 - ⚡ Fun fact **There are 10 kinds of people in this world. Those who understand binary and those who don’t.**
 
